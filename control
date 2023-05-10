@@ -1,0 +1,9 @@
+Package: alias20.power4options
+Name: Power4Options Reborn
+Version: 3.0
+Architecture: iphoneos-arm
+Description: A lightweight extension for PowerOptions. Compatible with iOS 15/rootless.
+Maintainer: alias20
+Author: alias20
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader

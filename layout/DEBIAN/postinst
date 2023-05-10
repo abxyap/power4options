@@ -1,0 +1,3 @@
+#!/bin/bash
+chown 0:0 /var/jb/usr/local/bin/p4octl
+chmod 4755 /var/jb/usr/local/bin/p4octl

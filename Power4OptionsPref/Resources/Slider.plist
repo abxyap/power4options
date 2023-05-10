@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PowerDown</key>
+	<dict>
+		<key>color</key>
+		<string>red</string>
+		<key>enabled</key>
+		<true/>
+		<key>index</key>
+		<string>0</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/PowerDown.png</string>
+		<key>string</key>
+		<string>slide to power off</string>
+	</dict>
+	<key>Respring</key>
+	<dict>
+		<key>color</key>
+		<string>gray</string>
+		<key>enabled</key>
+		<true/>
+		<key>index</key>
+		<string>1</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/Respring.png</string>
+		<key>string</key>
+		<string>slide to respring</string>
+	</dict>
+	<key>Reboot</key>
+	<dict>
+		<key>color</key>
+		<string>orange</string>
+		<key>enabled</key>
+		<true/>
+		<key>index</key>
+		<string>2</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/Reboot.png</string>
+		<key>string</key>
+		<string>slide to reboot</string>
+	</dict>
+	<key>SafeMode</key>
+	<dict>
+		<key>color</key>
+		<string>blue</string>
+		<key>enabled</key>
+		<true/>
+		<key>index</key>
+		<string>3</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/SafeMode.png</string>
+		<key>string</key>
+		<string>slide to safe mode</string>
+	</dict>
+	<key>LDRestart</key>
+	<dict>
+		<key>color</key>
+		<string>purple</string>
+		<key>enabled</key>
+		<false/>
+		<key>index</key>
+		<string>4</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/LDRestart.png</string>
+		<key>string</key>
+		<string>slide to ldrestart</string>
+	</dict>
+	<key>UICache</key>
+	<dict>
+		<key>color</key>
+		<string>magenta</string>
+		<key>enabled</key>
+		<false/>
+		<key>index</key>
+		<string>5</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/UICache.png</string>
+		<key>string</key>
+		<string>slide to uicache</string>
+	</dict>
+	<key>UserSpaceReboot</key>
+	<dict>
+		<key>color</key>
+		<string>cyan</string>
+		<key>enabled</key>
+		<false/>
+		<key>index</key>
+		<string>6</string>
+		<key>icon</key>
+		<string>/var/jb/Library/Application Support/Power4Options/Reboot.png</string>
+		<key>string</key>
+		<string>userspace reboot</string>
+	</dict>
+</dict>
+</plist>
